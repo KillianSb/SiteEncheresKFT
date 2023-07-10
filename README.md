@@ -1,2 +1,25 @@
 # SiteEncheresKFT
- Site Enchere Prejot ENI
+---------------------------------------------------------------------------------------------------------------
+
+![image](https://github.com/KillianSb/SiteEncheresKFT/assets/27457778/f0416582-64b2-4bfd-86f1-0c169fefbac1)
+
+---------------------------------------------------------------------------------------------------------------
+
+- Site Enchere Prejot ENI -
+
+Création de 0 d'un site d'enchere pour le projet n°2 ENI.
+
+
+---------------------------------------------------------------------------------------------------------------
+
+- Lancement du projet -
+
+1- Télecharger le projet.
+
+2- Importer le projet sur "Eclipse" ou "Intellij".
+
+3- Faire un "refresh Gradle" sur le "build.gradle".
+
+4- Lancer le projet sur "SiteEncheresKftApplication" avec "SpringBoot".
+
+5- Lancer le navigateur et entrer "http://localhost:8080/" pour arriver sur la page d'accueil du site.
