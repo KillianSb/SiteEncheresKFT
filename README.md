@@ -18,8 +18,10 @@ Création de 0 d'un site d'enchere pour le projet n°2 ENI.
 
 2- Importer le projet sur "Eclipse" ou "Intellij".
 
-3- Faire un "refresh Gradle" sur le "build.gradle".
+3- ⚠️ Ajouter le SQL, sur Microsoft SQL (le fichier ce situe dans src/sql du projet) ⚠️
 
-4- Lancer le projet sur "SiteEncheresKftApplication" avec "SpringBoot".
+4- Faire un "refresh Gradle" sur le "build.gradle".
 
-5- Lancer le navigateur et entrer "http://localhost:8080/" pour arriver sur la page d'accueil du site.
+5- Lancer le projet sur "SiteEncheresKftApplication" avec "SpringBoot".
+
+6- Lancer le navigateur et entrer "http://localhost:8080/" pour arriver sur la page d'accueil du site.
