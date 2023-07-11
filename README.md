@@ -9,6 +9,8 @@
 
 Création de 0 d'un site d'enchere pour le projet n°2 ENI.
 
+Crée en collaboration avec @FlorianLf et @T-the-Moose
+
 
 ---------------------------------------------------------------------------------------------------------------
 
@@ -18,7 +20,7 @@ Création de 0 d'un site d'enchere pour le projet n°2 ENI.
 
 2- Importer le projet sur "Eclipse" ou "Intellij".
 
-3- ⚠️ Ajouter le SQL, sur Microsoft SQL (le fichier ce situe dans src/sql du projet) ⚠️
+3- Ajouter le SQL, sur Microsoft SQL (le fichier ce situe dans src/sql du projet)
 
 4- Faire un "refresh Gradle" sur le "build.gradle".
 
